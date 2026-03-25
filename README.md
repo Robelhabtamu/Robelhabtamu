@@ -3,8 +3,6 @@
 ### 🚀 Fullstack Developer in Progress  
 🎓 Software Engineering Student (3rd Year)
 
----
-
 ## 👨‍💻 About Me
 - 💡 Passionate about building real-world applications  
 - 🌱 Currently improving my backend skills (Node.js & Express)  
@@ -16,27 +14,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-
+- HTML  - CSS  - JavaScript  - React  
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-
+- Node.js - Express.js  
 ### 🗄️ Database
-- SQL  
-- MongoDB  
+- SQL - MongoDB  
 
 ### 🧰 Tools
-- Git & GitHub  
-- Docker (Basics)  
-
+- Git & GitHub  - Docker (Basics)  
 ---
-
 ## 📌 Projects
-
 ### 🎬 Movie App
 - A movie browsing app with dynamic UI  
 - Built using React and API integration  
@@ -51,14 +38,6 @@
 - Basic system for managing organizational data  
 
 ---
-
-## 📈 Current Focus
-- Building fullstack applications  
-- Improving backend development  
-- Writing cleaner and scalable code  
-
----
-
 ## 🤝 Connect With Me
 - 📧 Email: emromelihuda@gmail.com  
 
