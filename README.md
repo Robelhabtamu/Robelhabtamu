@@ -19,23 +19,8 @@
 - Node.js - Express.js  
 ### 🗄️ Database
 - SQL - MongoDB  
+ 
 
-### 🧰 Tools
-- Git & GitHub  - Docker (Basics)  
----
-## 📌 Projects
-### 🎬 Movie App
-- A movie browsing app with dynamic UI  
-- Built using React and API integration  
-
-### ✅ To-Do App
-- Task management app with CRUD functionality  
-
-### 🍲 Recipe App
-- Search and explore recipes using external APIs  
-
-### 🏢 Simple ERP System
-- Basic system for managing organizational data  
 
 ---
 ## 🤝 Connect With Me
